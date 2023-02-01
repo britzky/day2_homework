@@ -140,3 +140,7 @@ input {
     background-color: lightgray;
 }
 
+.continue, .create-account:hover {
+    cursor: pointer;
+}
+
